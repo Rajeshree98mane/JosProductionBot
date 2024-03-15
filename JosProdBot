@@ -1,8 +1,9 @@
 <html>
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
-		
+		background-color: #571613!important;
 		font-family: "Arial", sans-serif;
+                color:#fff!important;
 	}
 	.embeddedServiceHelpButton .helpButton .uiButton:focus {
 		outline: 1px solid #571613;
