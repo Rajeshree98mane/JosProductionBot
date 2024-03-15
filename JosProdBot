@@ -1,5 +1,8 @@
 <html>
 <style type='text/css'>
+	.uiButton helpButtonEnabled{
+	background-color: #571613!important;
+	}
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #571613!important;
 		font-family: "Arial", sans-serif;
